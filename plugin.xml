@@ -33,7 +33,7 @@
   </platform>
 
   <platform name="ios">
-    <dependency id="cordova-plugin-chrome-apps-iossocketscommon" url=" url="https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-iossocketscommon.git" />
+    <dependency id="cordova-plugin-chrome-apps-iossocketscommon" url="https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-iossocketscommon.git" />
     <source-file src="src/ios/ChromeSocketsUdp.m" />
 
     <config-file target="config.xml" parent="/widget">
